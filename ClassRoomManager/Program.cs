@@ -16,7 +16,7 @@
                 new Tool { Name = "Javascript", Description = "Poop", Difficulty = 5}
             };
 
-            //List of atudents, empty for now
+            //List of students, empty for now
             List<Student> students = new List<Student> 
             {
                 new Student { Name = "Alina" , IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
